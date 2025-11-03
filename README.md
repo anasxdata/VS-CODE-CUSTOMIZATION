@@ -1,6 +1,6 @@
 # VS-Code-Customization
 ## 🛠️ VS Code Setting
-```
+```python
 
 // TODO: Workbench customization
 {
