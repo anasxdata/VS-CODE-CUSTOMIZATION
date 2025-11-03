@@ -1,8 +1,8 @@
 # VS-Code-Customization
-## VS Code Setting
+## 🛠️ VS Code Setting
 ```
 
-  // TODO: Workbench customization
+// TODO: Workbench customization
 {
   "workbench.colorTheme": "Palenight (Mild Contrast)",
   "workbench.iconTheme": "material-icon-theme",
@@ -108,8 +108,30 @@
 ```
 
 
+## VS Code Theme
+1. Palenight Theme  (Olaolu Olawuyi)<br>
+2. Aura Split Dracula theme<br>
+3. Atom One dark theme
 
 
+
+## VS Code Extensions
+1. Code Runner<br>
+2. Tabnine<br>
+3. Todo highlights<br>
+4. materia icon<br>
+5. material folder icon<br>
+6. polacode<br>
+7. Spell checker<br>
+8. Prettier/ruff<br>
+9. indent-rainbow<br>
+10. Path intellisence
+
+
+## VS Code Extension For Python
+1. Python<br>
+2. Python Extension Pack<br>
+3. Jupyter
 
 
 
