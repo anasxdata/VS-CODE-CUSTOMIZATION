@@ -1,5 +1,4 @@
 # VS-Code-Customization
-
 ---
 
 ## Table of Contents
