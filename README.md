@@ -1,6 +1,5 @@
 ###### VS-Code-Customization
 
-
 ## Table of Contents
 1. [VS Code Setting](#VS-Code-Setting)
 2. [VS Code Theme](#VS-Code-Theme)
